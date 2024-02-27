@@ -1,0 +1,2 @@
+<?php
+ namespace Mgt\Varnish\Model\ResourceModel\UrlQueue; class Collection extends \Mgt\Varnish\Model\ResourceModel\AbstractCollection { protected function _construct() { $this->_init("\115\x67\164\x5c\x56\141\162\x6e\x69\163\150\134\x4d\157\144\145\154\134\125\162\x6c\121\x75\145\165\x65", "\115\147\164\134\126\141\162\x6e\151\x73\x68\x5c\115\x6f\144\145\154\x5c\x52\145\163\157\x75\x72\143\145\x4d\157\x64\145\x6c\134\125\162\154\121\165\x65\x75\145"); } }
